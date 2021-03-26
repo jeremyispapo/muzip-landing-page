@@ -1,0 +1,32 @@
+.hero:hover .phone1__bar {
+    transform: translate(5rem, -1rem)
+                scale(1.1);
+}
+
+.hero:hover .phone1__icon {
+    transform: translateX(-6rem)
+                scale(1.2);
+}
+
+.hero:hover .phone1__heart {
+    transform: translate(-10rem)
+                scale(1.3);
+}
+
+.hero:hover .wave {
+    transform: translate(-10rem);
+}
+
+.search:hover .post1 {
+    transform: translate(2rem);
+}
+
+.search:hover .post2 {
+    transform: translate(2.2rem)
+                scale(1.1)
+}
+
+.search:hover .post3 {
+    transform: translate(-3rem, -1rem)
+                scale(1.1)
+}
